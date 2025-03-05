@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# BioticPlaza
+# GreenBeans
 =======
 
 #Plant-Selling-Ecommerce-Website
